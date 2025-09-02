@@ -118,7 +118,7 @@ Open two terminals:
 google.com.		293	IN	A	172.217.18.238
 
 ;; Query time: 78 msec
-;; SERVER: 127.0.0.1#5353(127.0.0.1) (TCP)
+;; SERVER: 127.0.0.1#53(127.0.0.1) (TCP)
 ;; WHEN: Sun Jun 15 14:56:20 UTC 2025
 ;; MSG SIZE  rcvd: 468
 ```
